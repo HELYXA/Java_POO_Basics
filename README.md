@@ -1,4 +1,4 @@
-# ☕ Java — Démo POO & héritage
+# ☕ Java - Démo POO & héritage
 
 > Petit programme Java illustrant l'héritage entre classes : recherche du min/max et d'une valeur dans un tableau d'entiers.
 
@@ -46,4 +46,4 @@ java Main
 
 ---
 
-*Exercice personnel — Bachelor Cybersécurité, module Programmation.*
+*Exercice - Bachelor Cybersécurité, module Programmation.*
